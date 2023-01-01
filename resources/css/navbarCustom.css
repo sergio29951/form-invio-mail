@@ -1,0 +1,20 @@
+.navbarCustom{
+    background-color: rgb(243, 243, 243);
+}
+
+
+
+.nav-link{
+    color: rgb(0, 32, 70);
+}
+
+.nav-link:hover{
+    color: rgb(220, 225, 249);
+}
+
+.imgLogo{
+    height: 70px;
+    width: 100px;
+    background-color:   rgb(243, 243, 243);
+   
+}

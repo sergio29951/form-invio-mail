@@ -1,0 +1,24 @@
+.bg-custom{
+    background-color:rgb(255, 191, 97);
+}
+.card-custom{
+    background-color: rgb(157, 21, 214);
+    color: white;
+    min-height: 500px;
+}
+
+.img-custom{
+    height: 250px;
+    width: 650px;
+    
+}
+
+.btn-custom{
+    background-color:rgb(255, 191, 97);
+}
+
+.btn-custom:hover{
+
+    background-color: rgb(255, 133, 85);
+    color: black;
+}

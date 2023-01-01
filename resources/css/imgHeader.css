@@ -1,0 +1,8 @@
+.imgHeader{
+    background-image: url(../media/header1.webp);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
